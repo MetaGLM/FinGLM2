@@ -8,8 +8,12 @@ logs/
 .idea
 output*
 test*
-.ipynb_checkpoints
+*.ipynb_checkpoints
 venv
 *.jsonl
 *.csv
 *.ipynb
+*.xlsx
+*.xls
+*.doc
+*.docx
