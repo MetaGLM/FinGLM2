@@ -2,7 +2,7 @@
 
 ## 项目介绍
 
-### 团队介绍 (必须)
+### 团队介绍
 
 团队成员: [zR](https://github.com/zRzRzRzRzRzRzR)
 
@@ -21,7 +21,7 @@
 
 工具函数存放在 [utils.py](utils.py) 中，包括了一些常用的函数，如 `get_answer_by_prompt` 等。
 
-### 快速开始
+## 快速开始
 
 1. 按照`requirements.txt`安装依赖
 
@@ -41,6 +41,6 @@ python prepare_dataset.py --excel_file ../../assests/data.xlsx --csv_file ../../
 python main.py --input ../../assests/question.json --output outputs/answer.json  --model glm-4-flash --api_key ZHIPUAI_API_KEY
 ```
 
-4. 提交结果
+## 提交结果
 
 提交结果为 `outputs/answer.json` 文件。
