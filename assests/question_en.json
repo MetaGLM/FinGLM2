@@ -1,0 +1,1751 @@
+[
+    {
+        "tid": "tttt----1",
+        "team": [
+            {
+                "id": "tttt----1----1-1-1",
+                "question": "What is the full name, A-share abbreviation, legal representative, legal counsel, accounting firm, and board secretary of 600872?"
+            },
+            {
+                "id": "tttt----1----1-1-2",
+                "question": "Has the actual controller of the company changed? If there has been a change, when did it change to whom? What is their nationality? Do they have permanent residency outside China? (Please provide the date in the format XXXX-XX-XX)"
+            },
+            {
+                "id": "tttt----1----1-1-3",
+                "question": "How many times did equity transfers occur in the year when the actual controller changed?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----2",
+        "team": [
+            {
+                "id": "tttt----2----2-1-1",
+                "question": "How many stocks have reached a new high in the past six months as of December 24, 2021?"
+            },
+            {
+                "id": "tttt----2----2-1-2",
+                "question": "Which stocks have a price greater than 75 and also hit a one-year high on the same day?"
+            },
+            {
+                "id": "tttt----2----2-1-3",
+                "question": "Which stock has met the above requirements for two consecutive days (today and yesterday)?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----3",
+        "team": [
+            {
+                "id": "tttt----3----3-2-1",
+                "question": "How many employees did 常熟银行have in the 2019 fiscal year (consolidated)?"
+            },
+            {
+                "id": "tttt----3----3-2-2",
+                "question": "How many people with a master's degree or higher did the company disclose?"
+            },
+            {
+                "id": "tttt----3----3-2-3",
+                "question": "How many people retired from Changshu Bank from January 1, 2020, to the end of the year?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----4",
+        "team": [
+            {
+                "id": "tttt----4----4-2-1",
+                "question": "What branch of the technology concept does Internet Finance belong to? What is the English name of this concept?"
+            },
+            {
+                "id": "tttt----4----4-2-2",
+                "question": "How many stocks are included in this concept as of the end of 2021 (excluding those that have been removed)? How many stocks have been removed?"
+            },
+            {
+                "id": "tttt----4----4-2-3",
+                "question": "Which ones were included in 2020, and what are their A-share abbreviations?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----5",
+        "team": [
+            {
+                "id": "tttt----5----5-2-1",
+                "question": "How many subcategory concepts has '化工' been included in?"
+            },
+            {
+                "id": "tttt----5----5-2-2",
+                "question": "How many concepts were included in the '化工' sector in 2021, and what are they?"
+            },
+            {
+                "id": "tttt----5----5-2-3",
+                "question": "How many stocks were included under these concepts in 2021? And to which three-level industries do they belong (consider only the industry data newly included in 2021)?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----6",
+        "team": [
+            {
+                "id": "tttt----6----6-2-1",
+                "question": "How many times did 天顺风能 disclose guarantee information?"
+            },
+            {
+                "id": "tttt----6----6-2-2",
+                "question": "How many times did he disclose borrowing information in total? How many times were disclosed in 2021?"
+            },
+            {
+                "id": "tttt----6----6-2-3",
+                "question": "How many times did he disclose major asset restructuring information in total? How many times were disclosed in 2021? How many times were disclosed in 2020?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----7",
+        "team": [
+            {
+                "id": "tttt----7----7-2-1",
+                "question": "Which third-level sub-industry does 天顺风能 belong to?"
+            },
+            {
+                "id": "tttt----7----7-2-2",
+                "question": "How many stocks in this industry were issued in 2021?"
+            },
+            {
+                "id": "tttt----7----7-2-3",
+                "question": "What is the highest industry operating income announced in August for this industry in ten thousand yuan?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----8",
+        "team": [
+            {
+                "id": "tttt----8----8-2-1",
+                "question": "How many times has 首钢股份 issued additional shares and rights issues respectively?"
+            },
+            {
+                "id": "tttt----8----8-2-2",
+                "question": "What are the estimated total funds raised for each additional issuance of the stock? What is the full Chinese name of the company with the highest estimated total funds raised for additional issuance, and what is the amount?"
+            },
+            {
+                "id": "tttt----8----8-2-3",
+                "question": "What are the total issuance fees for each rights issue of the stock? What is the full Chinese name of the company with the highest total issuance fee, and what is the amount?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----9",
+        "team": [
+            {
+                "id": "tttt----9----9-2-1",
+                "question": "What is the total annual R&D investment of 新天绿能 in 2020 in yuan, and how many R&D personnel are there? (Adjusted for consolidated financial statements, with the amount rounded to 2 decimal places)"
+            },
+            {
+                "id": "tttt----9----9-2-2",
+                "question": "What is the ratio of expensed R&D? What is the ratio of capitalized R&D?"
+            },
+            {
+                "id": "tttt----9----9-2-3",
+                "question": "Which three companies had the highest R&D investment in the previous year? (Please answer with their Chinese abbreviations)"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----10",
+        "team": [
+            {
+                "id": "tttt----10----10-2-1",
+                "question": "What are the main business products of 000958 company in 2021 (adjusted for consolidated financial statements, with amounts rounded to 2 decimal places)?"
+            },
+            {
+                "id": "tttt----10----10-2-2",
+                "question": "Which main business products of the company decreased in 2021 compared to 2020?"
+            },
+            {
+                "id": "tttt----10----10-2-3",
+                "question": "What is the information release date (XXXX-XX-XX) for the company's 2021 annual business performance?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----11",
+        "team": [
+            {
+                "id": "tttt----11----11-2-1",
+                "question": "What are the H-share code, Chinese name, and English name of 工商银行?"
+            },
+            {
+                "id": "tttt----11----11-2-2",
+                "question": "Who is the chairman of the company and what is the company's email address?"
+            },
+            {
+                "id": "tttt----11----11-2-3",
+                "question": "What were the number of employees before and after the change disclosed by the company at the end of December 2020?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----12",
+        "team": [
+            {
+                "id": "tttt----12----12-2-1",
+                "question": "What is the highest price of 阅文集团 in the past month, rounded to two decimal places, as of June 24, 2020?"
+            },
+            {
+                "id": "tttt----12----12-2-2",
+                "question": "What was the lowest price of 阅文集团 in the past year?"
+            },
+            {
+                "id": "tttt----12----12-2-3",
+                "question": "What is the difference?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----13",
+        "team": [
+            {
+                "id": "tttt----13----13-2-1",
+                "question": "What is the stock with the third highest closing price on October 27, 2020? (Please answer with the abbreviation)"
+            },
+            {
+                "id": "tttt----13----13-2-2",
+                "question": "Which one has the third highest trading volume?"
+            },
+            {
+                "id": "tttt----13----13-2-3",
+                "question": "Which one has the third highest turnover rate?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----14",
+        "team": [
+            {
+                "id": "tttt----14----14-2-1",
+                "question": "What was the highest closing price of a Hong Kong stock on September 2, 2019? (Please answer with the abbreviation)"
+            },
+            {
+                "id": "tttt----14----14-2-2",
+                "question": "Which company had the highest trading volume on 2019-09-02?"
+            },
+            {
+                "id": "tttt----14----14-2-3",
+                "question": "Which stock had the highest turnover rate on 2019-09-02?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----15",
+        "team": [
+            {
+                "id": "tttt----15----15-2-1",
+                "question": "Which companies changed their full company names between 2020, and what are their company codes?"
+            },
+            {
+                "id": "tttt----15----15-2-2",
+                "question": "What are the A-share securities codes for these companies?"
+            },
+            {
+                "id": "tttt----15----15-2-3",
+                "question": "What are the internal securities codes of these companies?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----16",
+        "team": [
+            {
+                "id": "tttt----16----16-2-1",
+                "question": "Which company had the highest total assets during the reporting period ending on December 31, 2021?"
+            },
+            {
+                "id": "tttt----16----16-2-2",
+                "question": "Which company has the highest net cash flow from operating activities?"
+            },
+            {
+                "id": "tttt----16----16-2-3",
+                "question": "What is the net profit difference between these two companies?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----17",
+        "team": [
+            {
+                "id": "tttt----17----17-2-1",
+                "question": "What are the top 10 Hong Kong stocks with the highest increase in April 2020?"
+            },
+            {
+                "id": "tttt----17----17-2-2",
+                "question": "What are the top 10 Hong Kong stocks with the highest increase in May 2020?"
+            },
+            {
+                "id": "tttt----17----17-2-3",
+                "question": "Which stock among the top ten with the highest increase in April 2020 had the smallest increase in May?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----18",
+        "team": [
+            {
+                "id": "tttt----18----1-2-1",
+                "question": "What is the registered email of 东航物流?"
+            },
+            {
+                "id": "tttt----18----1-2-2",
+                "question": "Who is the actual controller of the company?"
+            },
+            {
+                "id": "tttt----18----1-2-3",
+                "question": "How many companies does the actual controller own in total?"
+            },
+            {
+                "id": "tttt----18----1-2-4",
+                "question": "How many of these companies are engaged in logistics business?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----19",
+        "team": [
+            {
+                "id": "tttt----19----2-2-1",
+                "question": "Has 航锦科技股份有限公司 changed its company name?"
+            },
+            {
+                "id": "tttt----19----2-2-2",
+                "question": "What is the largest amount involved in the company's buyback?"
+            },
+            {
+                "id": "tttt----19----2-2-3",
+                "question": "What has become the proportion of shares held by the top ten shareholders for the year?"
+            },
+            {
+                "id": "tttt----19----2-2-4",
+                "question": "How many technical and production personnel did the company have in the current year?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----20",
+        "team": [
+            {
+                "id": "tttt----20----3-2-1",
+                "question": "How many companies are in the first-level industry of transportation according to Shenwan classification?"
+            },
+            {
+                "id": "tttt----20----3-2-2",
+                "question": "How many of these companies have changed their industries in the past 20 years?"
+            },
+            {
+                "id": "tttt----20----3-2-3",
+                "question": "Which companies were canceled in 21 after the change?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----21",
+        "team": [
+            {
+                "id": "tttt----21----4-2-1",
+                "question": "What were the highest and lowest prices of 科达制造 on August 4, 2021?"
+            },
+            {
+                "id": "tttt----21----4-2-2",
+                "question": "How many times did the stock's concept sector reach a limit-up in the current year?"
+            },
+            {
+                "id": "tttt----21----4-2-3",
+                "question": "What is the primary concept to which this stock belongs?"
+            },
+            {
+                "id": "tttt----21----4-2-4",
+                "question": "What is the total market value of the secondary industry to which the company belongs on that day?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----22",
+        "team": [
+            {
+                "id": "tttt----22----5-2-1",
+                "question": "Where is the registered address of 涪陵榨菜?"
+            },
+            {
+                "id": "tttt----22----5-2-2",
+                "question": "Who are the top ten shareholders listed in the company's listing prospectus?"
+            },
+            {
+                "id": "tttt----22----5-2-3",
+                "question": "How many of these shareholders are fund management companies?"
+            },
+            {
+                "id": "tttt----22----5-2-4",
+                "question": "How many companies have available information, and how many types of funds do these companies manage respectively in 2019?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----23",
+        "team": [
+            {
+                "id": "tttt----23----6-2-1",
+                "question": "When was 唐山港集团股份有限公司  listed (answer in the format XXXX-XX-XX)?"
+            },
+            {
+                "id": "tttt----23----6-2-2",
+                "question": "How many companies were listed in the current year?"
+            },
+            {
+                "id": "tttt----23----6-2-3",
+                "question": "How many of these enterprises are registered in Beijing?"
+            },
+            {
+                "id": "tttt----23----6-2-4",
+                "question": "Which companies are both registered and headquartered in 海淀?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----24",
+        "team": [
+            {
+                "id": "tttt----24----7-2-1",
+                "question": "Who was the major shareholder in the 2019 annual report released 山东药玻 by  in 2020?"
+            },
+            {
+                "id": "tttt----24----7-2-2",
+                "question": "How many shareholders were there in 2019?"
+            },
+            {
+                "id": "tttt----24----7-2-3",
+                "question": "How many shares does his circulating share capital consist of?"
+            },
+            {
+                "id": "tttt----24----7-2-4",
+                "question": "On which date was the largest non-exclusive block trade in terms of the number of shares involved in the 2019 equity change officially executed? (Please answer in the format XXXX-XX-XX)"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----25",
+        "team": [
+            {
+                "id": "tttt----25----8-2-1",
+                "question": "What is the securities code of 中南出版传媒集团股份有限公司?"
+            },
+            {
+                "id": "tttt----25----8-2-2",
+                "question": "What were the prepaid expenses in the first quarter report of 2019 for the parent company?"
+            },
+            {
+                "id": "tttt----25----8-2-3",
+                "question": "What is the total revenue?"
+            },
+            {
+                "id": "tttt----25----8-2-4",
+                "question": "How much cash inflow was generated from operating activities?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----26",
+        "team": [
+            {
+                "id": "tttt----26----9-2-1",
+                "question": "What is the English name of 000932?"
+            },
+            {
+                "id": "tttt----26----9-2-2",
+                "question": "What is the total salary of the top three executives in the company's 20-year annual report?"
+            },
+            {
+                "id": "tttt----26----9-2-3",
+                "question": "Did the company successfully restructure its assets in the current year? (Answer with \"yes\" or \"no\")"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----27",
+        "team": [
+            {
+                "id": "tttt----27----10-2-1",
+                "question": "What is the full Chinese name of RXW?"
+            },
+            {
+                "id": "tttt----27----10-2-2",
+                "question": "How many shares did the company issue in total when it went public?"
+            },
+            {
+                "id": "tttt----27----10-2-3",
+                "question": "What was the company's R&D investment in 2021?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----28",
+        "team": [
+            {
+                "id": "tttt----28----11-2-1",
+                "question": "Who is the board secretary of Titan Wind Energy (Suzhou) Co., Ltd.?"
+            },
+            {
+                "id": "tttt----28----11-2-2",
+                "question": "What was the highest upper limit of the single-tranche repurchase fund amount in the first information release of 20 years?"
+            },
+            {
+                "id": "tttt----28----11-2-3",
+                "question": "How is it managed?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----29",
+        "team": [
+            {
+                "id": "tttt----29----12-2-1",
+                "question": "How many companies did 东兴证券 successfully provide guarantees for in 2019?"
+            },
+            {
+                "id": "tttt----29----12-2-2",
+                "question": "What is the maximum amount guaranteed in these guarantee projects?"
+            },
+            {
+                "id": "tttt----29----12-2-3",
+                "question": "How many contract disputes did the company have in the current year?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----30",
+        "team": [
+            {
+                "id": "tttt----30----13-2-1",
+                "question": "How many funds does李一硕 manage in total?"
+            },
+            {
+                "id": "tttt----30----13-2-2",
+                "question": "Which of these funds is the largest in size?"
+            },
+            {
+                "id": "tttt----30----13-2-3",
+                "question": "Who is the legal representative of the fund manager?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----31",
+        "team": [
+            {
+                "id": "tttt----31----14-2-1",
+                "question": "Which securities company was penalized on December 12, 2019?"
+            },
+            {
+                "id": "tttt----31----14-2-2",
+                "question": "How many companies is that securities company a shareholder of?"
+            },
+            {
+                "id": "tttt----31----14-2-3",
+                "question": "Which company had the highest borrowing for the year, and what was the total amount?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----32",
+        "team": [
+            {
+                "id": "tttt----32----15-2-1",
+                "question": "When was the most recent suspension of 深桑达 ? (Answer with date format YYYY-MM-DD)"
+            },
+            {
+                "id": "tttt----32----15-2-2",
+                "question": "Which company had the highest closing price on that day, and what was the highest price?"
+            },
+            {
+                "id": "tttt----32----15-2-3",
+                "question": "Did it reach a new high in the past week? (Answer with \"Yes\" or \"No\")"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----33",
+        "team": [
+            {
+                "id": "tttt----33----16-2-1",
+                "question": "When was the most recent record high since the listing of 深圳市桑达实业股份有限公司? (Answer in the format YYYY-MM-DD)"
+            },
+            {
+                "id": "tttt----33----16-2-2",
+                "question": "How many stocks had an increase of more than 10% on that day?"
+            },
+            {
+                "id": "tttt----33----16-2-3",
+                "question": "Which of these companies are experiencing continuous price increases?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----34",
+        "team": [
+            {
+                "id": "tttt----34----17-2-1",
+                "question": "What was the opening price of 山东国瓷功能材料股份有限公司 on September 23, 2021?"
+            },
+            {
+                "id": "tttt----34----17-2-2",
+                "question": "What percentage of the shares was held by foreign capital on that day?"
+            },
+            {
+                "id": "tttt----34----17-2-3",
+                "question": "How many shares did the company issue in the current year and over the past 20 years according to its plan?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----35",
+        "team": [
+            {
+                "id": "tttt----35----18-3-1",
+                "question": "How many companies' annual general meetings did 北京国枫律师事务所 in 2020?"
+            },
+            {
+                "id": "tttt----35----18-3-2",
+                "question": "Which of these companies had shareholders who reduced their holdings in the current year?"
+            },
+            {
+                "id": "tttt----35----18-3-3",
+                "question": "Which company had the highest increase for the year, and what was the percentage, rounded to four decimal places?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----36",
+        "team": [
+            {
+                "id": "tttt----36----19-2-1",
+                "question": "Which company had the highest main force net inflow on 2019-01-04?"
+            },
+            {
+                "id": "tttt----36----19-2-2",
+                "question": "What is the average trading volume of this company within 5 days, rounded to 2 decimal places?"
+            },
+            {
+                "id": "tttt----36----19-2-3",
+                "question": "How many companies exceeded this indicator of the company on that day?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----37",
+        "team": [
+            {
+                "id": "tttt----37----20-2-1",
+                "question": "What is the stock code of 波司登 in the Hong Kong stock market?"
+            },
+            {
+                "id": "tttt----37----20-2-2",
+                "question": "What is the company registered capital?"
+            },
+            {
+                "id": "tttt----37----20-2-3",
+                "question": "In which year did the number of the company employees change the most, and what was the difference in the number of people before and after?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----38",
+        "team": [
+            {
+                "id": "tttt----38----21-2-1",
+                "question": "Who is the managing manager of 天弘沪深 300 ETF Connection A Fund?"
+            },
+            {
+                "id": "tttt----38----21-2-2",
+                "question": "How many funds does the fund company manage?"
+            },
+            {
+                "id": "tttt----38----21-2-3",
+                "question": "Which fund had the highest pre-tax dividend for the last distribution in 20 years, and how much was it, rounded to two decimal places?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----39",
+        "team": [
+            {
+                "id": "tttt----39----22-2-1",
+                "question": "What is the English name of the US stock for JD.com, Inc.?"
+            },
+            {
+                "id": "tttt----39----22-2-2",
+                "question": "What is the company securities abbreviation?"
+            },
+            {
+                "id": "tttt----39----22-2-3",
+                "question": "What was the company's single-day highest increase in 20 years?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----40",
+        "team": [
+            {
+                "id": "tttt----40----23-2-1",
+                "question": "What is the phone number of 携程网?"
+            },
+            {
+                "id": "tttt----40----23-2-2",
+                "question": "When was this company established? (Answer with date format YYYY-MM-DD)"
+            },
+            {
+                "id": "tttt----40----23-2-3",
+                "question": "What was the closing price of this company on September 18, 2020?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----41",
+        "team": [
+            {
+                "id": "tttt----41----24-2-1",
+                "question": "How many CN companies were established in 2020?"
+            },
+            {
+                "id": "tttt----41----24-2-2",
+                "question": "Which company (security abbreviation) has the latest listing date, and when is it? (Answer the time as YYYY-MM-DD)"
+            },
+            {
+                "id": "tttt----41----24-2-3",
+                "question": "How many companies experienced a stock price increase on the same day in 2019?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----42",
+        "team": [
+            {
+                "id": "tttt----42----25-1-1",
+                "question": "What is the postal code of 比特矿业?"
+            },
+            {
+                "id": "tttt----42----25-1-2",
+                "question": "How many years has the company been listed?"
+            },
+            {
+                "id": "tttt----42----25-1-3",
+                "question": "How many companies have been listed on the A-share market in recent years?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----43",
+        "team": [
+            {
+                "id": "tttt----43----26-1-1",
+                "question": "Has TOUR been delisted? (Yes or No)"
+            },
+            {
+                "id": "tttt----43----26-1-2",
+                "question": "What was the highest closing price of this company in 2019?"
+            },
+            {
+                "id": "tttt----43----26-1-3",
+                "question": "How many companies were delisted on that day?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----44",
+        "team": [
+            {
+                "id": "tttt----44----27-1-1",
+                "question": "Which fund had the highest post-tax dividend in August 2021?"
+            },
+            {
+                "id": "tttt----44----27-1-2",
+                "question": "When did this fund become effective (answer in the format YYYY-MM-DD)?"
+            },
+            {
+                "id": "tttt----44----27-1-3",
+                "question": "What is the official website of the company to which the fund belongs?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----45",
+        "team": [
+            {
+                "id": "tttt----45----28-1-1",
+                "question": "How many funds did 易方达基金管理有限公司 establish in 2019?"
+            },
+            {
+                "id": "tttt----45----28-1-2",
+                "question": "Which fund has the largest scale?"
+            },
+            {
+                "id": "tttt----45----28-1-3",
+                "question": "What was the last dividend distribution ratio of this fund in 20 years?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----46",
+        "team": [
+            {
+                "id": "tttt----46----28-4-1",
+                "question": "How many funds were established by 南方基金管理股份有限公司 in 2019?"
+            },
+            {
+                "id": "tttt----46----28-4-2",
+                "question": "Which fund has the largest scale?"
+            },
+            {
+                "id": "tttt----46----28-4-3",
+                "question": "What was the last dividend payout ratio of this fund in 20 years, rounded to two decimal places?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----47",
+        "team": [
+            {
+                "id": "tttt----47----30-1-1",
+                "question": "How many types of indices did 中证指数有限公司 release?"
+            },
+            {
+                "id": "tttt----47----30-1-2",
+                "question": "How many companies are included in these indices?"
+            },
+            {
+                "id": "tttt----47----30-1-3",
+                "question": "How many companies were included in 2020?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----48",
+        "team": [
+            {
+                "id": "tttt----48----1-2-1",
+                "question": "Who is the legal representative of 铜陵有色金属集团股份有限公司?"
+            },
+            {
+                "id": "tttt----48----1-2-2",
+                "question": "When was 铜陵有色金属集团股份有限公司 established? Please provide the date in YYYY/MM/DD format."
+            },
+            {
+                "id": "tttt----48----1-2-3",
+                "question": "Who is the general manager of 铜陵有色金属集团股份有限公司?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----49",
+        "team": [
+            {
+                "id": "tttt----49----3-2-1",
+                "question": "What is the information disclosure website of 深科技?"
+            },
+            {
+                "id": "tttt----49----3-2-2",
+                "question": "How many non-public offerings has the company conducted in the past?"
+            },
+            {
+                "id": "tttt----49----3-2-3",
+                "question": "What is the quantity of the latest private placement issuance?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----50",
+        "team": [
+            {
+                "id": "tttt----50----4-2-1",
+                "question": "In which province is the registered location of 福建坤彩材料科技股份有限公司?"
+            },
+            {
+                "id": "tttt----50----4-2-2",
+                "question": "What is the total amount of assets mentioned in the unaudited consolidated balance sheet in the company's 2020 annual report?"
+            },
+            {
+                "id": "tttt----50----4-2-3",
+                "question": "What is the total liabilities shown in the unadjusted parent company balance sheet in his 2020 annual report?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----51",
+        "team": [
+            {
+                "id": "tttt----51----5-2-1",
+                "question": "When was 海信视像科技股份有限公司established?(YYYY-MM-DD)"
+            },
+            {
+                "id": "tttt----51----5-2-2",
+                "question": "What is the unaudited consolidated statement of business total cost in the 2021 semi-annual report for the company?"
+            },
+            {
+                "id": "tttt----51----5-2-3",
+                "question": "What was the unaudited consolidated net profit of the company in its 2021 semi-annual report?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----52",
+        "team": [
+            {
+                "id": "tttt----52----6-2-1",
+                "question": "How many research visits has 申能股份 received in total in the past?"
+            },
+            {
+                "id": "tttt----52----6-2-2",
+                "question": "When was the most recent research conducted?"
+            },
+            {
+                "id": "tttt----52----6-2-3",
+                "question": "Where was the location of the most recent research?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----53",
+        "team": [
+            {
+                "id": "tttt----53----7-2-1",
+                "question": "How many employee stock ownership plans has 水晶光电 implemented?"
+            },
+            {
+                "id": "tttt----53----7-2-2",
+                "question": "What are the upper limits for the stock scale and total fund amount in the most recently completed employee stock ownership plan?"
+            },
+            {
+                "id": "tttt----53----7-2-3",
+                "question": "Is the plan implemented in phases? If implemented, answer A; if not, answer B."
+            }
+        ]
+    },
+    {
+        "tid": "tttt----54",
+        "team": [
+            {
+                "id": "tttt----54----8-2-1",
+                "question": "What were the highest and lowest prices of 普洛药业 on 2020-11-25?"
+            },
+            {
+                "id": "tttt----54----8-2-2",
+                "question": "What was the turnover rate for the day, rounded to two decimal places?"
+            },
+            {
+                "id": "tttt----54----8-2-3",
+                "question": "What are the annualized Sharpe ratio and volatility (daily step), rounded to two decimal places?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----55",
+        "team": [
+            {
+                "id": "tttt----55----9-2-1",
+                "question": "What was the transaction amount (in million yuan) of 上海建工 in the past week as of 2021-06-17?"
+            },
+            {
+                "id": "tttt----55----9-2-2",
+                "question": "What is the transaction amount (in ten thousand yuan) for the past month?"
+            },
+            {
+                "id": "tttt----55----9-2-3",
+                "question": "Is the average transaction price in the past week higher or lower compared to the average monthly transaction price? What are the specific values for both, rounded to two decimal places?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----56",
+        "team": [
+            {
+                "id": "tttt----56----10-2-1",
+                "question": "What are the types of the top ten shareholders of 建元信托股份有限公司?"
+            },
+            {
+                "id": "tttt----56----10-2-2",
+                "question": "Who is the largest shareholder of the company in the 2020 annual report, and how many shares does he hold?"
+            },
+            {
+                "id": "tttt----56----10-2-3",
+                "question": "What is the total shareholding of the company's state-owned shareholders in the 2020 annual report?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----57",
+        "team": [
+            {
+                "id": "tttt----57----31-3-1",
+                "question": "What is the last trading day of 2020? Please reply in the format of XXXX 年 XX 月 XX 日."
+            },
+            {
+                "id": "tttt----57----31-3-2",
+                "question": "What was the total market value of 鱼跃医疗 at the end of 2020?"
+            },
+            {
+                "id": "tttt----57----31-3-3",
+                "question": "What was the transaction amount for the past 12 months reviewed by 鱼跃医疗 at the end of 2020?"
+            },
+            {
+                "id": "tttt----57----31-3-4",
+                "question": "What is the ratio of  鱼跃医疗 total transaction amount in the last 12 months of 2020 to its total market value, rounded to two decimal places?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----58",
+        "team": [
+            {
+                "id": "tttt----58----32-2-1",
+                "question": "How many stocks traded normally and opened with a gap down on January 11, 2021?"
+            },
+            {
+                "id": "tttt----58----32-2-2",
+                "question": "Which stock has the largest amplitude among them?"
+            },
+            {
+                "id": "tttt----58----32-2-3",
+                "question": "What is the net inflow of the main force for this stock?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----59",
+        "team": [
+            {
+                "id": "tttt----59----33-2-1",
+                "question": "Which trading day in the second half of 2019 had the highest number of securities reaching a new high in trading volume for nearly a quarter?"
+            },
+            {
+                "id": "tttt----59----33-2-2",
+                "question": "How many securities reached a new high in trading volume in nearly a quarter on that day?"
+            },
+            {
+                "id": "tttt----59----33-2-3",
+                "question": "What were the respective numbers of securities that rose and fell on that day?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----60",
+        "team": [
+            {
+                "id": "tttt----60----33-5-1",
+                "question": "Which trading day in the second half of 2021 had the highest number of securities reaching a new high in trading volume for nearly a quarter, Please reply in the format of XXXX 年 XX 月 XX 日?"
+            },
+            {
+                "id": "tttt----60----33-5-2",
+                "question": "How many securities reached a new high in trading volume in nearly a quarter on that day?"
+            },
+            {
+                "id": "tttt----60----33-5-3",
+                "question": "What were the respective numbers of securities that rose and fell on that day?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----61",
+        "team": [
+            {
+                "id": "tttt----61----34-3-1",
+                "question": "How many funds were listed in the first half of 2020?"
+            },
+            {
+                "id": "tttt----61----34-3-2",
+                "question": "Which is the largest fund established among them? (The disclosed name follows the naming convention on the official website of the China Securities Regulatory Commission)"
+            },
+            {
+                "id": "tttt----61----34-3-3",
+                "question": "What is the fund category with the largest quantity, and how many are there?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----62",
+        "team": [
+            {
+                "id": "tttt----62----35-1-1",
+                "question": "When was 博时基金 Management established（XXXX年XX月XX日）?"
+            },
+            {
+                "id": "tttt----62----35-1-2",
+                "question": "Which fund companies (abbreviated) were established earlier than 博时基金?"
+            },
+            {
+                "id": "tttt----62----35-1-3",
+                "question": "What are the fund companies (abbreviated) in the same region as 博时基金?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----63",
+        "team": [
+            {
+                "id": "tttt----63----36-1-1",
+                "question": "Which company has the highest total number of unrestricted tradable A shares held by institutions in the latest updated 2019 annual report?"
+            },
+            {
+                "id": "tttt----63----36-1-2",
+                "question": "What is the total percentage of unrestricted circulating A shares held by the company's institutional investors in this report, rounded to two decimal places?"
+            },
+            {
+                "id": "tttt----63----36-1-3",
+                "question": "What is the combined shareholding ratio of the company's top ten shareholders, rounded to two decimal places?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----64",
+        "team": [
+            {
+                "id": "tttt----64----36-4-1",
+                "question": "Which company has the highest total number of unrestricted circulating A shares held by institutions in the latest updated 2021 annual report?"
+            },
+            {
+                "id": "tttt----64----36-4-2",
+                "question": "What is the total proportion of unrestricted circulating A shares held by the company's institutions in this report, rounded to two decimal places?"
+            },
+            {
+                "id": "tttt----64----36-4-3",
+                "question": "What is the combined shareholding ratio of the company's top ten shareholders?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----65",
+        "team": [
+            {
+                "id": "tttt----65----37-2-1",
+                "question": "What was 安琪酵母‘s highest closing price for the entire year of 2020, and on which day did it occur (XXXX年XX月XX日)?"
+            },
+            {
+                "id": "tttt----65----37-2-2",
+                "question": "Did the trading volume on that day reach a new high in nearly a month?"
+            },
+            {
+                "id": "tttt----65----37-2-3",
+                "question": "How many consecutive days of increased volume are there?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----66",
+        "team": [
+            {
+                "id": "tttt----66----37-5-1",
+                "question": "What was 安琪酵母's highest closing price for the entire year of 2021, and on which day did it occur, XXXX年XX月XX日?"
+            },
+            {
+                "id": "tttt----66----37-5-2",
+                "question": "Did the trading volume on that day reach a new high in nearly a month?"
+            },
+            {
+                "id": "tttt----66----37-5-3",
+                "question": "How many consecutive days of increased volume are there?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----67",
+        "team": [
+            {
+                "id": "tttt----67----38-2-1",
+                "question": "What was the lowest closing price of 厦门钨业 in the entire year of 2019, and on which day did it occur, XXXX年XX月XX日?"
+            },
+            {
+                "id": "tttt----67----38-2-2",
+                "question": "What was the VRSI relative strength of 厦门钨业 on that day, rounded to four decimal places?"
+            },
+            {
+                "id": "tttt----67----38-2-3",
+                "question": "How many days has Xiamen Tungsten been declining consecutively?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----68",
+        "team": [
+            {
+                "id": "tttt----68----38-5-1",
+                "question": "What was the lowest closing price of 厦门钨业 in the entire year of 2021, and on which day did it occur, XXXX年XX月XX日?"
+            },
+            {
+                "id": "tttt----68----38-5-2",
+                "question": "What was the VRSI relative strength of  厦门钨业 on that day, rounded to four decimal places?"
+            },
+            {
+                "id": "tttt----68----38-5-3",
+                "question": "How many days has 厦门钨业 been declining consecutively?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----69",
+        "team": [
+            {
+                "id": "tttt----69----39-2-1",
+                "question": "To which second-level concept does the chip concept sector belong?"
+            },
+            {
+                "id": "tttt----69----39-2-2",
+                "question": "How many ongoing concept sectors are there under this Level 2 category as of the end of 2023?"
+            },
+            {
+                "id": "tttt----69----39-2-3",
+                "question": "What is the English name for the chip concept sector?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----70",
+        "team": [
+            {
+                "id": "tttt----70----40-2-1",
+                "question": "According to the new version of 申万 industry classification at the end of 2021, what 申万 secondary industry does 杰瑞股份 currently belong to?"
+            },
+            {
+                "id": "tttt----70----40-2-2",
+                "question": "How many stocks were there in this 申万 secondary industry by the end of 2021?"
+            },
+            {
+                "id": "tttt----70----40-2-3",
+                "question": "What percentage of the total market value of the secondary industry did the total market value of the stock account for at the end of 2021 (rounded to 2 decimal places)?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----71",
+        "team": [
+            {
+                "id": "tttt----71----41-2-1",
+                "question": "At the end of 2021, according to the new version of Shenwan industry classification, what Shenwan first-level industry does 均胜电子 currently belong to?"
+            },
+            {
+                "id": "tttt----71----41-2-2",
+                "question": "How many stocks were there in this first-level industry at the end of 2021?"
+            },
+            {
+                "id": "tttt----71----41-2-3",
+                "question": "What percentage (rounded to two decimal places) of the market capitalization of the Shenwan First-Level Industry did the A-share market capitalization of this stock account for at the end of 2021?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----72",
+        "team": [
+            {
+                "id": "tttt----72----29-2-1",
+                "question": "What was the total market value of the wind power components industry on 2020-07-02 (in yuan)?"
+            },
+            {
+                "id": "tttt----72----29-2-2",
+                "question": "What is the A-share circulating market value (in yuan)?"
+            },
+            {
+                "id": "tttt----72----29-2-3",
+                "question": "What will be the A-share circulating market value (in yuan) on the next trading day?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----73",
+        "team": [
+            {
+                "id": "tttt----73----17-2-1",
+                "question": "What was the total compensation of 软通动力 in 2019 and the number of management personnel who received compensation?"
+            },
+            {
+                "id": "tttt----73----17-2-2",
+                "question": "What is the remuneration for the top three directors?"
+            },
+            {
+                "id": "tttt----73----17-2-3",
+                "question": "What was the company's total compensation in 2020, and did it increase or decrease compared to 2019?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----74",
+        "team": [
+            {
+                "id": "tttt----74----18-2-1",
+                "question": "Who is the fund manager of 天弘增利短债C?"
+            },
+            {
+                "id": "tttt----74----18-2-2",
+                "question": "What is the operation mode of the fund?"
+            },
+            {
+                "id": "tttt----74----18-2-3",
+                "question": "What is the investment style of the fund?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----75",
+        "team": [
+            {
+                "id": "tttt----75----42-2-1",
+                "question": "What was the total R&D investment of 中国软件 as of the fourth quarter of 2021 (adjusted consolidated financial statements)?"
+            },
+            {
+                "id": "tttt----75----42-2-2",
+                "question": "What was the proportion of research and development investment to operating revenue for 中国软件 as of the fourth quarter of 2021?"
+            },
+            {
+                "id": "tttt----75----42-2-3",
+                "question": "Please estimate the total number of employees in Chinese software companies based on the number and proportion of R&D personnel as of Q4 2021 (calculation method: Total number of employees = Number of R&D personnel ÷ (Proportion of R&D personnel ÷ 100), with the result rounded to the nearest whole number)."
+            }
+        ]
+    },
+    {
+        "tid": "tttt----76",
+        "team": [
+            {
+                "id": "tttt----76----43-2-1",
+                "question": "What was the maximum borrowing amount of 陆家嘴 in 2019?"
+            },
+            {
+                "id": "tttt----76----43-2-2",
+                "question": "Who was the borrower with the highest single initial loan amount in 2019 in 陆家嘴? What was the amount of that single initial loan?"
+            },
+            {
+                "id": "tttt----76----43-2-3",
+                "question": "What was the latest borrowing event for 陆家嘴 in 2019? Please provide details including the event content, borrower, lender, and the amount borrowed."
+            }
+        ]
+    },
+    {
+        "tid": "tttt----77",
+        "team": [
+            {
+                "id": "tttt----77----44-2-1",
+                "question": "What was the maximum guarantee amount for 亿帆医药 in 2020?"
+            },
+            {
+                "id": "tttt----77----44-2-2",
+                "question": "Who was the guarantor with the highest guarantee amount for 亿帆医药 in 2020, and what was the guarantee amount?"
+            },
+            {
+                "id": "tttt----77----44-2-3",
+                "question": "What was the latest guarantee event for 亿帆医药 in 2020? The answer should include the event details, the guarantor, the guaranteed party, and the guarantee amount information."
+            }
+        ]
+    },
+    {
+        "tid": "tttt----78",
+        "team": [
+            {
+                "id": "tttt----78----45-2-1",
+                "question": "How many major event announcements did 许继电气 issue in 2021?"
+            },
+            {
+                "id": "tttt----78----45-2-2",
+                "question": "Which contract signed by 许继电气 in 2021 involved the largest amount of money, and what was the amount?"
+            },
+            {
+                "id": "tttt----78----45-2-3",
+                "question": "Did 许继电气 sign the largest contract in 2021 after the announcement of a major event? What are the dates of the signed contract and the major event announcement (YYYY-MM-DD)?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----79",
+        "team": [
+            {
+                "id": "tttt----79----46-2-1",
+                "question": "What is the difference between the maximum number of shares to be reduced (upper limit of shares to be reduced) and the minimum number of shares to be reduced (lower limit of shares to be reduced) in 美亚光电's reduction plan for 2021?"
+            },
+            {
+                "id": "tttt----79----46-2-2",
+                "question": "How many shareholders were involved in 美亚光电's reduction plan for 2021?"
+            },
+            {
+                "id": "tttt----79----46-2-3",
+                "question": "Who is the shareholder with the highest maximum reduction ratio in 美亚光电's reduction plan for 2021?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----80",
+        "team": [
+            {
+                "id": "tttt----80----1-2-1 ",
+                "question": "What are the securities code and ISIN code of 利亚德?"
+            },
+            {
+                "id": "tttt----80----1-2-2 ",
+                "question": "What is the company's latest CSRC industry code? How many listed companies are there under this industry?"
+            },
+            {
+                "id": "tttt----80----1-2-3 ",
+                "question": "What are the specific dates (in the format YYYY-MM-DD), locations, and number of participating institutions for the recent three investor research sessions conducted by 利亚德?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----81",
+        "team": [
+            {
+                "id": "tttt----81----2-2-1 ",
+                "question": "How many national team shareholders did 隧道股份 have by the end of 2021?"
+            },
+            {
+                "id": "tttt----81----2-2-2 ",
+                "question": "What is the total number of A shares held by these shareholders?"
+            },
+            {
+                "id": "tttt----81----2-2-3 ",
+                "question": "Which shareholder among them holds the highest shareholding ratio, and what is the ratio (rounded to two decimal places)?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----82",
+        "team": [
+            {
+                "id": "tttt----82----3-2-1 ",
+                "question": "What was the total number of employees at 中国宝安 at the end of 2021? What percentage of these employees were technical personnel? (Retain two decimal places)"
+            },
+            {
+                "id": "tttt----82----3-2-2 ",
+                "question": "What is the proportion of technical personnel with a master's degree or above (master's + doctorate) in the company? (Retain two decimal places)"
+            },
+            {
+                "id": "tttt----82----3-2-3 ",
+                "question": "Is the company's talent structure reasonable? Please analyze the proportion of technical staff, production staff, and sales staff."
+            }
+        ]
+    },
+    {
+        "tid": "tttt----83",
+        "team": [
+            {
+                "id": "tttt----83----4-2-1 ",
+                "question": "What was the net inflow situation for small, medium, and large orders of 海信家电 on December 24, 2021? What were the respective net inflow amounts? (Unit: yuan)"
+            },
+            {
+                "id": "tttt----83----4-2-2 ",
+                "question": "What is the net buying rate (amount) difference between large orders and small orders based on the above capital flow data, expressed in percentage points? What phenomenon does this combination of capital flows reflect? (Retain two decimal places)"
+            },
+            {
+                "id": "tttt----83----4-2-3 ",
+                "question": "What is the percentage point difference in the net buying rate between large and small orders for the concept sector to which the stock belongs on December 24, 2021?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----84",
+        "team": [
+            {
+                "id": "tttt----84----5-2-1 ",
+                "question": "How many times did 永泰能源change its business scope in 2020? Please list the specific dates of each change in the format (YYYY-MM-DD)."
+            },
+            {
+                "id": "tttt----84----5-2-2 ",
+                "question": "How many credit rating-related events occurred within 30 days before and after the business change date of 永泰能源 in 2020? Please list the specific event dates."
+            },
+            {
+                "id": "tttt----84----5-2-3 ",
+                "question": "Compare the number of business alterations and credit events for 永泰能源 in 2019 and 2020, and calculate the change rate for 2020 relative to 2019. Which indicator shows a greater change?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----85",
+        "team": [
+            {
+                "id": "tttt----85----6-2-1 ",
+                "question": "How many funds did 鹏华基金d establish in 2019? What was the total fundraising scale of these funds? (Unit: yuan)"
+            },
+            {
+                "id": "tttt----85----6-2-2 ",
+                "question": "How many of the aforementioned established funds are equity funds? What is the average fundraising size of these equity funds? (Unit: yuan)"
+            },
+            {
+                "id": "tttt----85----6-2-3 ",
+                "question": "Please analyze the proportion of passive investment strategy (index-type) funds among the newly established equity funds of the company in 2019. Is this proportion higher or lower compared to other fund companies in the same period?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----86",
+        "team": [
+            {
+                "id": "tttt----86----7-2-1 ",
+                "question": "What was the total number of shareholders of 安琪酵母 on December 31, 2021? And what was the average number of shares held by each A-share shareholder?"
+            },
+            {
+                "id": "tttt----86----7-2-2 ",
+                "question": "What is the change rate (rounded to two decimal places) of the company's A-share average holding per account based on the above shareholder data compared to the previous quarter? What phenomenon does this change reflect?"
+            },
+            {
+                "id": "tttt----86----7-2-3 ",
+                "question": "What was the total management compensation of the company in 2021, and what was the average level for all companies? What was the difference rate between the company's management compensation and the industry average? (rounded to two decimal places)"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----87",
+        "team": [
+            {
+                "id": "tttt----87----8-2-1 ",
+                "question": "How many times did 健康元药业集团股份有限公司 conduct share buybacks during the period from 2020 to 2021? What were the amounts (in million yuan, rounded to two decimal places) and the number of shares for each buyback?"
+            },
+            {
+                "id": "tttt----87----8-2-2 ",
+                "question": "What was the main purpose of the most recent buyback? Does it involve an equity incentive plan?"
+            },
+            {
+                "id": "tttt----87----8-2-3 ",
+                "question": "How did the company rank in terms of the total amount of repurchases among A-share listed companies during the 2020-2021 period?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----88",
+        "team": [
+            {
+                "id": "tttt----88----9-2-1 ",
+                "question": "What is the total number of participants in 伟明环保's latest employee stock ownership plan? And what is the percentage of management personnel participating (rounded to two decimal places and expressed as a percentage)?"
+            },
+            {
+                "id": "tttt----88----9-2-2 ",
+                "question": "What is the source of the shares for this employee stock ownership plan? How many shares are planned to be purchased?"
+            },
+            {
+                "id": "tttt----88----9-2-3 ",
+                "question": "Compare the employee shareholding plan of 伟明环保 with that of companies in the same securities market and securities category, and analyze: (1) the number of employee shareholding plans in companies with the same securities market and securities category, (2) at what level is the scale of the company's shareholding plan (accurate to two decimal places and expressed as a percentage)? (3) at what level is the proportion of management participation (accurate to two decimal places and expressed as a percentage)? (4) at what level is the length of the lock-up period (accurate to two decimal places and expressed as a percentage)?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----89",
+        "team": [
+            {
+                "id": "tttt----89----10-2-1 ",
+                "question": "What was the institutional holding ratio of 光环新网 (code: 300383) at the end of 2021 in its annual report (rounded to two decimal places and expressed as a percentage)? And what was the fund holding ratio (rounded to two decimal places and expressed as a percentage)?"
+            },
+            {
+                "id": "tttt----89----10-2-2 ",
+                "question": "What were the institutional holding ratios (rounded to two decimal places and expressed as percentages) for each quarter in 2021, based on the last statistical date and excluding non-fund regular reports?"
+            },
+            {
+                "id": "tttt----89----10-2-3 ",
+                "question": "What were the institutional holding ratio and fund holding ratio of the company at the end of 2020 and 2021 (rounded to two decimal places and expressed as a percentage), and how much did they change (retaining the positive or negative sign, rounded to two decimal places, and expressed as a percentage)?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----90",
+        "team": [
+            {
+                "id": "tttt----90----11-2-1 ",
+                "question": "How many dividend plans did 九州通 implement between 2020-2021? What are the total cash distribution amounts (rounded to two decimal places, in yuan) and the implementation announcement dates (in the format xxxx-xx-xx) for each dividend?"
+            },
+            {
+                "id": "tttt----90----11-2-2 ",
+                "question": "Did the company's institutional holding ratio of unrestricted A-shares increase between 2020 and 2021 (output Yes/No)? Please list the specific data, retaining four decimal places."
+            },
+            {
+                "id": "tttt----90----11-2-3 ",
+                "question": "How many significant borrowing events (with a single amount exceeding 30 million yuan) occurred for the company between 2020-2021? What was the largest amount among these borrowing events, and who were the corresponding borrower and lender?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----91",
+        "team": [
+            {
+                "id": "tttt----91----12-2-1 ",
+                "question": "Which companies in the A-share market reached new monthly highs on December 31, 2021 (Chinese name abbreviations are sufficient)? What are their securities codes?"
+            },
+            {
+                "id": "tttt----91----12-2-2 ",
+                "question": "Which of these companies that hit new highs have shareholders that include corporate capital? Please list the company names (abbreviated in Chinese) and the names of the corporate capital shareholders."
+            },
+            {
+                "id": "tttt----91----12-2-3 ",
+                "question": "For companies that simultaneously possess corporate capital background and achieve record highs, please conduct an in-depth analysis from the following dimensions:\n    What are the industry codes of these companies? What are the companies with the same industry (Chinese name abbreviations are sufficient)?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----92",
+        "team": [
+            {
+                "id": "tttt----92----13-2-1 ",
+                "question": "How many times did 华夏鼎康债券A distribute dividends in 2019, and what was the cash distribution ratio for each dividend?"
+            },
+            {
+                "id": "tttt----92----13-2-2 ",
+                "question": "Based on the above dividend data, how much post-tax dividend income could an investor receive if they held 1,000 units of the fund during the last dividend distribution in 2019?"
+            },
+            {
+                "id": "tttt----92----13-2-3 ",
+                "question": "Please analyze the average number of dividend distributions and the average cash distribution ratio (rounded to four decimal places) for similar bond funds in 2019, based on the bond fund category to which this fund belongs."
+            }
+        ]
+    },
+    {
+        "tid": "tttt----93",
+        "team": [
+            {
+                "id": "tttt----93----14-2-1 ",
+                "question": "What were the major contracts signed by 中铁工业 in 2021 with significant amounts? Please list the release dates of the top two contracts in the format (xxxx-xx-xx), the contract subjects, and the contract amounts (rounded to two decimal places)."
+            },
+            {
+                "id": "tttt----93----14-2-2 ",
+                "question": "What was the quarterly distribution of major contracts signed by 中铁工业 in 2021?"
+            },
+            {
+                "id": "tttt----93----14-2-3 ",
+                "question": "Analyze the characteristics of counterparties in major contracts in 2021:\n1. How many customers engaged in repeat transactions, their total contract amount (rounded to two decimal places), and the proportion of both quantity and amount in the total (rounded to two decimal places and expressed as a percentage)?\n2. What is the total contract amount for a single counterparty, who is the highest, and what is the total amount (rounded to two decimal places), and the proportion of the total contract amount of all counterparties (rounded to two decimal places and expressed as a percentage)?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----94",
+        "team": [
+            {
+                "id": "tttt----94----15-2-1 ",
+                "question": "What were the major public opinion events that occurred for 华峰化学 in 2019? Please list the event date (YYYY-MM-DD), event name, and sentiment direction."
+            },
+            {
+                "id": "tttt----94----15-2-2 ",
+                "question": "Did 华峰化学 experience any trading suspension during the aforementioned major events? If so, please list the start and end dates (YYYY-MM-DD) of the suspension and the specific reasons."
+            },
+            {
+                "id": "tttt----94----15-2-3 ",
+                "question": "On which date (YYYY-MM-DD) did 华峰化学 experience the largest proportion of equity change in 2019? What was the cumulative price change within the 5 trading days before and after this change, rounded to two decimal places?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----95",
+        "team": [
+            {
+                "id": "tttt----95----16-2-1 ",
+                "question": "What was 大北农's asset-liability ratio at the end of the first quarter of 2019? What were the proportions of current assets and non-current assets in total assets, respectively (rounded to two decimal places)?"
+            },
+            {
+                "id": "tttt----95----16-2-2 ",
+                "question": "Based on the above asset structure characteristics, what was the total amount of guarantee provided by the company for its subsidiary in 2019 (rounded to 2 decimal places)? What was the longest guarantee period in months (rounded to the nearest whole number)?"
+            },
+            {
+                "id": "tttt----95----16-2-3 ",
+                "question": "What was the specific date of the shareholders' meeting held by the company in 2019 to discuss the aforementioned guarantee matters, and what percentage of the company's total share capital did the voting rights held by the participating shareholders represent? (You may use the most recent available data for the total share capital) (rounded to two decimal places)"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----96",
+        "team": [
+            {
+                "id": "tttt----96----17-2-1 ",
+                "question": "How many times did 梅花生物 conduct stock buybacks in 2019, and what was the total buyback amount (rounded to 2 decimal places)?"
+            },
+            {
+                "id": "tttt----96----17-2-2 ",
+                "question": "What is the specific date (in the format xxxx-xx-xx) and amount (rounded to two decimal places) of the largest single repurchase in the aforementioned repurchase plan?"
+            },
+            {
+                "id": "tttt----96----17-2-3 ",
+                "question": "What was the company's average repurchase cycle in 2019 (in days, rounded to 2 decimal places)? What was the average repurchase amount (rounded to 2 decimal places)?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----97",
+        "team": [
+            {
+                "id": "tttt----97----18-2-1 ",
+                "question": "What were 深科技's trading data on December 24, 2021? Specifically, include the closing price, trading volume, and turnover rate, rounded to two decimal places."
+            },
+            {
+                "id": "tttt----97----18-2-2 ",
+                "question": "Based on the above transaction data, did the stock set a new high for the past week and the past month on that day? If not, what were the highest prices respectively?"
+            },
+            {
+                "id": "tttt----97----18-2-3 ",
+                "question": "What are the technical characteristics of the stock's trend based on the MACD indicator (considering trading volume) and the arrangement of moving averages for that day?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----98",
+        "team": [
+            {
+                "id": "tttt----98----19-2-1 ",
+                "question": "What were 安井食品's highest and lowest prices in the first quarter of 2019? Which day (XXXX-XX-XX) had the highest trading volume?"
+            },
+            {
+                "id": "tttt----98----19-2-2 ",
+                "question": "On the day with the highest trading volume mentioned above, did the stock set new highs for the past week, past month, or past quarter? If so, which new highs were set?"
+            },
+            {
+                "id": "tttt----98----19-2-3 ",
+                "question": "Analyze the trading volume characteristics of this stock in January 2019: On which days did the trading volume exceed twice the monthly average? What were the specific ratios? How much did the closing prices on these high-volume days increase or decrease compared to the previous day? (Round to two decimal places)"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----99",
+        "team": [
+            {
+                "id": "tttt----99----20-2-1 ",
+                "question": "Who was the shareholder that made the largest equity pledge in 美年健康 in 2019, and to whom was it pledged? What was the number of pledged shares and the percentage of the total share capital, rounded to four decimal places?"
+            },
+            {
+                "id": "tttt----99----20-2-2 ",
+                "question": "What was the company's short-term loan balance at the time of the aforementioned maximum ratio pledge? (Retain two decimal places)"
+            },
+            {
+                "id": "tttt----99----20-2-3 ",
+                "question": "How many equity pledges did the company accumulate in 2019? What percentage of its total assets at the end of the year did the total pledge amount represent? (Retain two decimal places)"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----100",
+        "team": [
+            {
+                "id": "tttt----100----21-2-1 ",
+                "question": "How many investor relations activities did 横店东磁 in January 2019? On which day (in the format xxxx-xx-xx) did the activity with the most participating institutions take place, and how many institutions were involved?"
+            },
+            {
+                "id": "tttt----100----21-2-2 ",
+                "question": "What is the total annual compensation for the company's executives? What about a year later? What is the change ratio (rounded to two decimal places)?"
+            },
+            {
+                "id": "tttt----100----21-2-3 ",
+                "question": "Please list the average executive compensation and the frequency of investor relations activities for each concept sector the company belongs to in 2021, rounded to two decimal places?"
+            }
+        ]
+    },
+    {
+        "tid": "tttt----101",
+        "team": [
+            {
+                "id": "tttt----101----22-2-1 ",
+                "question": "What was the total share capital of 中直股份 as of December 31, 2021, and what percentage of the circulating shares were subject to restricted conditions (rounded to two decimal places)?"
+            },
+            {
+                "id": "tttt----101----22-2-2 ",
+                "question": "At this time point, what are the respective shareholding ratios of domestic natural persons and overseas natural persons for this stock? How many percentage points do they differ by? (Retain two decimal places)"
+            },
+            {
+                "id": "tttt----101----22-2-3 ",
+                "question": "To which concept sectors does this stock belong? What is the average limited sale ratio of other companies in these concept sectors as of December 31, 2021? Is this stock higher or lower than the sector average, and by how many percentage points? (Retain two decimal places)"
+            }
+        ]
+    }
+]
