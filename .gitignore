@@ -1,11 +1,6 @@
 *__pycache__/
-samples*/
-runs/
-checkpoints/
-master_ip
-logs/
 *.DS_Store
-.idea
+*.idea
 output*
 test*
 *.ipynb_checkpoints
