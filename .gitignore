@@ -7,8 +7,8 @@ test*
 venv
 *.jsonl
 *.csv
-*.ipynb
 *.xlsx
 *.xls
 *.doc
 *.docx
+check
