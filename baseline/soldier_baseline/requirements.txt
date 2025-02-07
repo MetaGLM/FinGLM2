@@ -1,0 +1,7 @@
+jieba>=0.42.1
+zhipuai>=2.1.5.20241204
+transformers>=4.47.0
+pandas>=2.2.3
+openpyxl>=3.1.5
+tqdm>=4.67.1
+datasketch>=1.6.5
