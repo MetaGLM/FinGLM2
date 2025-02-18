@@ -1,0 +1,7 @@
+zhipuai>=2.1.5.20241204
+pandas>=2.2.3
+tqdm>=4.67.1
+ollama>=0.4.6
+colorama>=0.4.6
+mysql-connector-python>=9.2.0
+jieba>=0.42.1
